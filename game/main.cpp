@@ -7,7 +7,7 @@ CGameApp app;
 int main(int argc, char* argv[])
 {
 	//app.DebugMemoryLeaks();
-	app.OpenWindow(800, 600, "Side scroller");
+	app.OpenWindow(800, 600, "Janitor Game");
 	//app.OpenFullScreen(800, 600, 24);
 	//app.OpenConsole();
 	app.SetClearColor(CColor::LightBlue());
